@@ -1,5 +1,22 @@
 # Semantic Versioning Changelog
 
+# [2.0.0](https://github.com/theeverestguy/MyRepo/compare/v1.0.0...v2.0.0) (2021-03-02)
+
+
+### Bug Fixes
+
+* sjbfbh ([a0f7079](https://github.com/theeverestguy/MyRepo/commit/a0f707945e15c88b39bca2ea14fa3535c19d03f6))
+
+
+### Code Refactoring
+
+* **resource:** rename useguidedfailure argument on environment resource ([dd4d2ed](https://github.com/theeverestguy/MyRepo/commit/dd4d2ed837f57b13f0f79f5f0bb0a98f1fbac1aa))
+
+
+### BREAKING CHANGES
+
+* **resource:** The useguidedfailure argument has been renamed use_guided_failure in the octopusdeploy_environment resource.
+
 # 1.0.0 (2021-03-02)
 
 
