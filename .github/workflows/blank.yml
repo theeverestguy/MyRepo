@@ -23,6 +23,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: export GITHUB_TOKEN=bee4927c09a8c343eb452a373c82ba883fb05994
     - run: export DEBUG=*
-    - run: npm install semantic-release @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/exec
-    - run: npm install @semantic-release/git @semantic-release/release-notes-generator
+    - run: npm install -g semantic-release @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/exec
+    - run: npm install -g @semantic-release/git @semantic-release/release-notes-generator
     - run: npx semantic-release
