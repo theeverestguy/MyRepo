@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.1.0](https://github.com/theeverestguy/MyRepo/compare/v2.0.1...v2.1.0) (2021-03-02)
+
+
+### Features
+
+* 2.1.0 ([7512a99](https://github.com/theeverestguy/MyRepo/commit/7512a993d126c8ff15473bf6175b25213f9692d2))
+
 ## [2.0.1](https://github.com/theeverestguy/MyRepo/compare/v2.0.0...v2.0.1) (2021-03-02)
 
 
