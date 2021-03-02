@@ -23,6 +23,16 @@
                     "CHANGELOG.md"
                 ]
             }
+        ],
+        [
+            "@semantic-release/github",
+            {
+                "assets": [
+                    {
+                        "path": "dist/**"
+                    }
+                ]
+            }
         ]
     ]
 }
