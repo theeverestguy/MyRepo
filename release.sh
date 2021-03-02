@@ -1,2 +1,3 @@
 #!/bin/sh
-echo "Release Number:   $1"
+echo "Release Version no: $1"
+touch df.txt
