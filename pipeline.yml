@@ -1,7 +1,7 @@
 format_version: 10
 pipelines:
   SamplePipeline:
-    group: everest
+    group: TimesheetsGroup
     label_template: ${COUNT}
     lock_behavior: none
     display_order: -1
